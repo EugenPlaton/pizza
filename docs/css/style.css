@@ -179,6 +179,11 @@ body {
     color: #fff;
     border: 2px solid #fff;
     padding: 18px 31px;
+    transition: background-color .2s linear;
+}
+
+.btn:hover {
+    background-color: #b83337;
 }
 
 .main__image {
